@@ -1,6 +1,6 @@
 # queues
 
-Coursera Algorithms week-2 practical task
+Coursera Algorithms week 2.
 
 **ASSESSMENT SUMMARY**
 
